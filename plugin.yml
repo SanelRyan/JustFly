@@ -11,5 +11,5 @@ permissions:
             description: "Allows you to do /fly for yourself."
             default: op
         justfy.fly_others:
-            description: "Allows you to enable another person's flight with /fly [player]"
+            description: "Allows you to enable/disable another person's flight with /fly [player]"
             default: op
