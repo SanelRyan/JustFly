@@ -5,18 +5,11 @@ api: [3.0.0, 4.0.0]
 version: 1.0.0
 load: POSTWORLD
 
-commands:
-	fly:
-		description: "Just fly!"
-		permission: justfly.fly
-
 permissions:
-	justfly.fly:
-		description: "Allows you to do /fly for yourself."
-		default: true
-	justfy.fly.others.enableFly:
-		description: "Allows you to enable another person's flight with /fly [player]"
-		default: true
-	justfy.fly.others.disableFly:
-		description: "Allows you to disable another person's flight with /fly [player]"
-		default: true
+    justfly:
+        justfly.fly:
+            description: "Allows you to do /fly for yourself."
+            default: op
+        justfy.fly_others:
+            description: "Allows you to enable another person's flight with /fly [player]"
+            default: op
