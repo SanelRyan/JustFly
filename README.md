@@ -1,7 +1,5 @@
-**THIS PLUGIN IS CURRENTLY IN-DEV**
-
 # JustFly
-JustFly - Yet Another Flight Plguin is a Pocketmine-MP Version of SpigotMC JustFly written by Astrxicz (SanelRyan) and originally written by JovannMC.
+JustFly - Yet Another Flight Plguin is a Pocketmine-MP Version of SpigotMC JustFly. Written by Astrxicz (SanelRyan) and Originally (SpigotMC Version) written by JovannMC.
 
 ### Commands
 - /fly - Enable/Disable flight for self
